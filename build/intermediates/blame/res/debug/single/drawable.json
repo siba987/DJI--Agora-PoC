@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_selector.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\btn_radio_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_draw_starter.png",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\btn_draw_starter.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\round_btn.xml",
+        "source": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\src\\main\\res\\drawable\\round_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\draw_route.png",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\draw_route.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button_normal.png",
+        "source": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\src\\main\\res\\drawable\\back_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_back_button.xml",
+        "source": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\src\\main\\res\\drawable\\selector_back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_checked.png",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\radio_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_draw_end.png",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\btn_draw_end.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\round_btn_disable.xml",
+        "source": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\src\\main\\res\\drawable\\round_btn_disable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\draw_arrow.png",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\draw_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zoom_selector.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\btn_zoom_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button_disable.png",
+        "source": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\src\\main\\res\\drawable\\back_button_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\round_btn_pressed.xml",
+        "source": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\src\\main\\res\\drawable\\round_btn_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\playvideo.png",
+        "source": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\src\\main\\res\\drawable\\playvideo.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\indoorpointing_canpass.png",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\indoorpointing_canpass.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_unchecked.png",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\radio_unchecked.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_draw_start_plane.png",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\btn_draw_start_plane.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_lock_selector.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\btn_lock_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\round_btn_normal.xml",
+        "source": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\src\\main\\res\\drawable\\round_btn_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button_press.png",
+        "source": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\src\\main\\res\\drawable\\back_button_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\draw_route_pass.png",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\draw_route_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_draw_started.png",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\btn_draw_started.png"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\c7e5891c5c6f03e0444471164805de9f80b5ce00\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siba\\Dev\\DJIVideoStream_with_agorasdk\\DJIVideoStream_with_agora-sdk-\\build\\intermediates\\res\\merged\\debug\\drawable\\indoorpointing_cannotpass.png",
+        "source": "C:\\Users\\Siba\\.android\\build-cache\\f9fe939641c20de04f9d21c2b03d7dd2183d8c66\\output\\res\\drawable\\indoorpointing_cannotpass.png"
+    }
+]
