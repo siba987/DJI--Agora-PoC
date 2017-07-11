@@ -364,7 +364,7 @@ public class MainActivity extends AppCompatActivity implements DJIVideoStreamDec
         vf.buf = bytes;
 
         Log.d(TAG, "we are here MPS123");
-        //sendVFtoAgora(vf);
+        sendVFtoAgora(vf);
 
     }
 
@@ -420,8 +420,7 @@ public class MainActivity extends AppCompatActivity implements DJIVideoStreamDec
             screenShot.setText("B/C is ON");
             screenShot.setSelected(true);
             if (useSurface) {
-                DJIVideoStreamDecoder.getInstance().changeSurface(videostreamPreviewSh.getSurface());
-                sendVFtoAgora(vf);
+                DJIVideoStreamDecoder.getInstance().changeSurface(null);
             }
 
         }
