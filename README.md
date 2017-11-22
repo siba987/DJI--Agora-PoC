@@ -1,8 +1,4 @@
-# Android Video Stream Decoding Sample
-
-## Introduction
-
-This sample project demonstrates how to use [FFmpeg](https://ffmpeg.org) for video frame parsing and to use the `MediaCodec` for hardware decoding. It will help to parse video frames and decode the raw video stream data from DJI Camera and output the [YUV](https://en.wikipedia.org/wiki/YUV) data. 
+# Swoo DJI Video Streaming on Agora
 
 ## Java Files Explanation
 
